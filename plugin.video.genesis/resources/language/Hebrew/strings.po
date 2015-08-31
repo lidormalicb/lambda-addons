@@ -92,7 +92,7 @@ msgstr "זוכי אוסקר"
 
 msgctxt "#30031"
 msgid "In Theaters"
-msgstr "בקולנוע"
+msgstr "עכשיו בקולנוע"
 
 msgctxt "#30032"
 msgid "Latest Movies"
@@ -144,11 +144,11 @@ msgstr "סדרות חדשות"
 
 msgctxt "#30059"
 msgid "Highly Rated"
-msgstr "דירוג גבוהה"
+msgstr "לפי פופולארי"
 
 msgctxt "#30060"
 msgid "Most Voted"
-msgstr "הוצבע הכי הרבה"
+msgstr "לפי דירוג"
 
 msgctxt "#30061"
 msgid "TV Calendar"
@@ -336,11 +336,11 @@ msgstr "סדרות"
 
 msgctxt "#30153"
 msgid "People (Movies)"
-msgstr "אנשים(סרטים)"
+msgstr "שחקנים(סרטים)"
 
 msgctxt "#30154"
 msgid "People (TV)"
-msgstr "אנשים(סדרות)"
+msgstr "שחקנים(סדרות)"
 
 msgctxt "#30191"
 msgid "Add to Library"
@@ -772,7 +772,7 @@ msgstr "מומלצים"
 
 msgctxt "#30810"
 msgid "People Watching"
-msgstr "אנים צפו"
+msgstr "אנשים צפו"
 
 msgctxt "#30811"
 msgid "Latest Episodes"
@@ -1028,7 +1028,7 @@ msgstr "בדוק סרטים לפני הוספה"
 
 msgctxt "#30929"
 msgid "Check first episode of season before adding it"
-msgstr "בדוק פרק הראשון של עונה לפני הוספה"
+msgstr "בדוק פרק ראשון של עונה לפני הוספה"
 
 msgctxt "#30940"
 msgid "Subtitles"
